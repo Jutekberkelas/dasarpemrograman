@@ -1,4 +1,4 @@
-nama:mirna kamilah 
-nim:20220040254
-kelas:ti22a
-prodi:teknik informatika
+Nama:Mirna Kamilah 
+Nim:20220040254
+Kelas:TI22A
+Prodi:Teknik Informatika
